@@ -10,7 +10,7 @@
 url = 'https://bbs.idataloop.com/forum.php?mod=viewthread&tid=1304'
 
 cookie = r'xxxxxxxxxx'
-
+# cookie 里的 xxxx 就是需要你到登录页面检察元素去获取你的 cookie  ,然后粘贴到这里
 #***************************************************************
 
 
